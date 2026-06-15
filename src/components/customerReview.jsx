@@ -117,10 +117,10 @@ function CustomerReviews() {
         "They have certain specifc flavours in pizza  which is too good compared to others.",
     },
     {
-      name: "VijayaKumar",
+      name: "Vijaya Kumar",
       rating: "★★★★★",
       review:
-        "This shop boasts a clean and cozy ambiance, perfect for dates and satisfying snack cravings. However, the slightly higher food prices may not be justified by the portion sizes. While the taste is excellent with no compromises.",
+        "This shop boasts a clean and cozy ambiance, perfect for dates and satisfying snack cravings. While the taste is excellent with no compromises.",
     },
     {
       name: "Roobha Sivasamy",
@@ -132,7 +132,7 @@ function CustomerReviews() {
       name: "Divi",
       rating: "★★★★☆",
       review:
-        "Such an unassuming place this is! It’s located on the terrace atop a narrow flight of stairs. We visited on a hot evening and only one other table was occupied. The place is filled with plants which  makes the air really cool. ",
+        "Such an unassuming place this is! It’s located on the terrace top a narrow flight of stairs. The place is filled with plants which  makes the air really cool. ",
     },
     {
       name: "Sri Hari",
@@ -144,7 +144,7 @@ function CustomerReviews() {
       name: "Vijay Anand",
       rating: "★★★★★",
       review:
-        "The menu looks good at the first glance.. We had a burger and chicken wings... Both were really tasty...",
+        "The menu looks good at the first glance. We had a burger and chicken wings... Both were really tasty...",
     },
     {
       name: "Sarath Raja",

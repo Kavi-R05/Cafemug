@@ -41,17 +41,22 @@ function Contact() {
 
           <p className="contact-item">
             <FaMapMarkerAlt size={18} color="#EA4335" />
-            <span>Thennapalayam, Tiruppur.</span>
+            <span className="contact-item-info">Thennapalayam, Tiruppur.</span>
           </p>
 
           <p className="contact-item">
             <FaPhoneAlt size={16} color="#34A853" />
-            <a href="tel:+918438111014">+91 8438111014</a>
+            <a className="contact-item-info" href="tel:+918438111014">
+              +91 8438111014
+            </a>
           </p>
 
           <p className="contact-item">
             <MdEmail size={20} color="#4285F4" />
-            <a href="mailto:cafemugrooftop@gmail.com">
+            <a
+              className="contact-item-info"
+              href="mailto:cafemugrooftop@gmail.com"
+            >
               cafemugrooftop@gmail.com
             </a>
           </p>
