@@ -117,6 +117,12 @@ function CustomerReviews() {
         "They have certain specifc flavours in pizza  which is too good compared to others.",
     },
     {
+      name: "Karishma Devaraj",
+      rating: "★★★★★",
+      review:
+        "Nice atmosphere loved the food and a good place to dine in especially at eve.",
+    },
+    {
       name: "Vijaya Kumar",
       rating: "★★★★★",
       review:
@@ -127,12 +133,6 @@ function CustomerReviews() {
       rating: "★★★★★",
       review:
         "We had a good experience along with kids. They enjoyed the pizza and the nuggets so much that they themselves complimented before we left the place.  Must try place!.",
-    },
-    {
-      name: "Divi",
-      rating: "★★★★☆",
-      review:
-        "Such an unassuming place this is! It’s located on the terrace top a narrow flight of stairs. The place is filled with plants which  makes the air really cool. ",
     },
     {
       name: "Sri Hari",
@@ -147,10 +147,16 @@ function CustomerReviews() {
         "The menu looks good at the first glance. We had a burger and chicken wings... Both were really tasty...",
     },
     {
-      name: "Sarath Raja",
+      name: "Fathima K",
       rating: "★★★★★",
       review:
-        "Awesome location ever i visited in tiruppur locality,best place for couples and newly married couples.",
+        "The food is very tasty and yummy. The flavors are rich and delicious.",
+    },
+    {
+      name: "Divi",
+      rating: "★★★★☆",
+      review:
+        "Such an unassuming place this is! It’s located on the terrace top a narrow flight of stairs. The place is filled with plants which  makes the air really cool. ",
     },
     {
       name: "Dhanasekar G",
@@ -158,23 +164,18 @@ function CustomerReviews() {
       review:
         "Good atmosphere, awesome ambiance, polite service with reasonable prices.",
     },
-    {
-      name: "Karishma Devaraj",
-      rating: "★★★★★",
-      review:
-        "Nice atmosphere......loved the food and a good place to dine in especially at eve.",
-    },
-    {
-      name: "Fathima K",
-      rating: "★★★★★",
-      review:
-        "The food is very tasty and yummy. The flavors are rich and delicious.",
-    },
+
     {
       name: "Ketzi Victoria",
       rating: "★★★★★",
       review:
         "Excellent ambience and service was good, it’s a great place to hangout.",
+    },
+    {
+      name: "Sarath Raja",
+      rating: "★★★★★",
+      review:
+        "Awesome location ever i visited in tiruppur locality,best place for couples and newly married couples.",
     },
 
     /* NEW REVIEWS */
