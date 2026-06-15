@@ -144,7 +144,7 @@ function CustomerReviews() {
       name: "Vijay Anand",
       rating: "★★★★★",
       review:
-        "The menu looks good at the first glance. We had a burger and chicken wings... Both were really tasty...",
+        "The menu looked impressive right from the first glance, with a great variety of options to choose from. We ordered a burger and chicken wings, and both dishes exceeded our expectations. The ambience was pleasant, the service was friendly, and the overall dining experience was excellent. Definitely a place I would recommend to food lovers and would love to visit again.",
     },
     {
       name: "Fathima K",
