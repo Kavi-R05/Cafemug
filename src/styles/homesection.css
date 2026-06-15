@@ -219,9 +219,10 @@
    MOBILE
 =========================== */
 
-@media (max-width: 576px) {
+@media (max-width: 480px) {
   .hero-content {
     padding: 60px 20px;
+    min-height: 75vh;
   }
   .hero-title {
     font-size: 2.2rem;
