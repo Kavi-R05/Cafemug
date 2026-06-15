@@ -153,23 +153,23 @@ function CustomerReviews() {
         "The food is very tasty and yummy. The flavors are rich and delicious.",
     },
     {
-      name: "Divi",
-      rating: "★★★★☆",
-      review:
-        "Such an unassuming place this is! It’s located on the terrace top a narrow flight of stairs. The place is filled with plants which  makes the air really cool. ",
-    },
-    {
       name: "Dhanasekar G",
       rating: "★★★★☆",
       review:
         "Good atmosphere, awesome ambiance, polite service with reasonable prices.",
+    },
+    {
+      name: "Divi",
+      rating: "★★★★☆",
+      review:
+        "Such an unassuming place this is! It’s located on the terrace top a narrow flight of stairs. The place is filled with plants which  makes the air really cool. ",
     },
 
     {
       name: "Ketzi Victoria",
       rating: "★★★★★",
       review:
-        "Excellent ambience and service was good, it’s a great place to hangout.",
+        "Excellent ambience and service was too professional, it’s a great place to hangout.Food here is so good. Celebration decoration is nice and affordable",
     },
     {
       name: "Sarath Raja",
