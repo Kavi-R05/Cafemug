@@ -144,7 +144,7 @@ function CustomerReviews() {
       name: "Vijay Anand",
       rating: "★★★★★",
       review:
-        "The menu looked impressive right from the first glance. We ordered a burger and chicken wings both excellent.",
+        "The menu looked impressive right from the first glance, with a great variety of options to choose from. We ordered a burger and chicken wings both excellent.",
     },
     {
       name: "Fathima K",
