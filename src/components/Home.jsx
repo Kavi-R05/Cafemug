@@ -1,6 +1,6 @@
 import HomeSection from "../components/HomeSection";
 import Story from "../components/Story";
-import "../styles/Home.css";
+import "../styles/home.css";
 import CustomerReviews from "../components/customerReview";
 import ProductCarousel from "../components/productCarousel";
 import ShopLocation from "../components/shoplocation";
