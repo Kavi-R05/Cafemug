@@ -36,6 +36,7 @@ function Contact() {
             </li>
           </ul>
         </div>
+
         <div className="footer-section">
           <h3>Contact</h3>
 
@@ -62,32 +63,30 @@ function Contact() {
           </p>
         </div>
 
-        {/* <div className="footer-section">
-          <h3>Follow Us</h3>
-          <div className="social-links">
+        <div className="footer-section">
+          <h3>Orders</h3>
+          <p className="for-swiggy-orders">
             <a
-              href="https://www.instagram.com/cafemug_tirupur?igsh=a2dvdnI2Mmk0b3dx"
+              href="https://www.swiggy.com/menu/167517?source=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Instagram
+              {/* <FaInstagram size={22} color="#E4405F" /> */}
+              <span>Swiggy</span>
             </a>
+          </p>
+
+          <p className="for-zomato-orders">
             <a
-              href="https://youtube.com/@cafemug_tirupur?si=UJC_VJz-OoJqekAj"
+              href="https://zomato.onelink.me/xqzv/iyfhon8x"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Youtube
+              {/* <FaYoutube size={22} color="#FF0000" /> */}
+              <span>Zomato</span>
             </a>
-            <a
-              href="https://wa.me/8438111014"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              WhatsApp
-            </a>
-          </div>
-        </div> */}
+          </p>
+        </div>
 
         <div className="footer-section">
           <h3>Follow Us</h3>

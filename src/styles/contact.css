@@ -6,7 +6,7 @@
 
 .footer-container {
   width: 90%;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: auto;
 
   display: grid;
@@ -107,6 +107,9 @@
 
   .social-links {
     align-items: center;
+  }
+  .contact-item {
+    display: block;
   }
 }
 
