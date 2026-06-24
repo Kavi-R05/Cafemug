@@ -49,6 +49,11 @@
   color: #ffdb58;
 }
 
+.gst-name {
+  color: #ffdb58;
+  font-weight: 500;
+}
+
 .social-links {
   display: flex;
   flex-direction: column;
@@ -96,6 +101,10 @@
   margin-bottom: 12px;
 }
 
+.contact-item-info {
+  display: inline-block;
+}
+
 .contact-item svg {
   flex-shrink: 0;
 }
@@ -109,12 +118,19 @@
     align-items: center;
   }
   .contact-item {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    text-align: center;
   }
 }
 
 @media (max-width: 480px) {
   .contact-item {
-    display: block;
+    display: flex;
+    gap: 10px;
+    align-items: center;
   }
 }

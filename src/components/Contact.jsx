@@ -13,7 +13,7 @@ function Contact() {
             experiences served every day.
           </p>
           <br />
-          <p>Gst: 33GCEPS0991C1ZM </p>
+          <p className="gst-name">Gst: 33GCEPS0991C1ZM </p>
         </div>
 
         <div className="footer-section">
